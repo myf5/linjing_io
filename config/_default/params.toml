@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "blog about me and service mesh,cloud native,k8s"
 
 ############################
 ## Site Features
